@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "juan.Service", "juan.Servic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "juan.Repo", "juan.Repo\juan.Repo.csproj", "{79C53195-746F-46A5-AA0C-3121556478B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "juan.Web", "juan.Web\juan.Web.csproj", "{F57B937E-405C-4C85-AFBB-1DA061A6D867}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "juan.Web", "juan.Web\juan.Web.csproj", "{F57B937E-405C-4C85-AFBB-1DA061A6D867}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

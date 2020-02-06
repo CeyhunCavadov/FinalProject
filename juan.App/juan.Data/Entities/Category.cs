@@ -7,5 +7,6 @@ namespace juan.Data.Entities
     public class Category : Base
     {
         public string Name { get; set; }
+        public int MyProperty { get; set; }
     }
 }
