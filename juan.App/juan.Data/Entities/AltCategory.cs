@@ -4,7 +4,7 @@ using System.Text;
 
 namespace juan.Data.Entities
 {
-    public class Category : Base
+    public class AltCategory : Base
     {
         public string Name { get; set; }
         public List<RelCategory> RelCategories { get; set; }
